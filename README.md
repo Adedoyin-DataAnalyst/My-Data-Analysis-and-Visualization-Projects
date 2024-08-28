@@ -16,8 +16,8 @@ Here is a list of projects I have worked on as a Data Analyst using Excel, Power
 - Analysis of Deathrate due to Cholera Outbreak in Stockholm: Showed the rate of death based on gender, profession and duration basis.
 - Brazillian E-Commerce Olist Dashboard: showcase the analysis of over 100K orders from 2016 - 2018
 - United States Airlines 2015 Flight: This dashboard showcase the airline flights in 2015 for United States based on the cancellation rates
-- Sales Dashboard: Analyzed sales data to identify trends, top-selling products, and revenue metrics for business decision-making. Dataset provided ny Merskill
-- HR Attrition: Dataset analyzed to optimize talent management and organizational performance.
+- [Sales Dashboard](https://github.com/Adedoyin-DataAnalyst/Sales_Data_Analysis): Analyzed sales data to identify trends, top-selling products, and revenue metrics for business decision-making. Dataset provided ny Merskill
+- [HR Attrition](https://github.com/Adedoyin-DataAnalyst/HR-Attrition): Dataset analyzed to optimize talent management and organizational performance.
   
 ## Tableau
 - Maternal Health Risk Data: Analyszed data from different hospitals, community clinics, and maternal health cares based on Age, SystolicBP, DiastolicBP, BS, Healthrate and Risk Level
@@ -28,7 +28,6 @@ Here is a list of projects I have worked on as a Data Analyst using Excel, Power
 - Health Insurance Coverage Report: This dashboard displays the health insurance rate in 51 states in the United states
 - Supply Chain Optimization for an FMCG Company: Analyzed the demand pattern in different pockets of the country so management can drive the advertising campaign, particularly in those pockets.
 - World Energy Consumption: Analyszed the consumption rate by different countries based on various factors
-- Sales Dashbiard: Analyzed the various target by regions and sales person using excel and tableau
 - WHO COVID-19 Report: Dataset from WHO based on COVID cases by countries
 - NCDC COVID-19 Analysis: NCDC dataset based on Nigeria COVID Cases
 
@@ -37,4 +36,4 @@ Here is a list of projects I have worked on as a Data Analyst using Excel, Power
 - Hospital ER Analysis: used excel to analyse and create the dashboard
 
 ## Python
-- Diabetes Data: Data analyzed to predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset
+- [Diabetes Data](https://github.com/Adedoyin-DataAnalyst/Diabetes_Analysis): Data analyzed to predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset
