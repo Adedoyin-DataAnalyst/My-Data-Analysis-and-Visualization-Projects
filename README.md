@@ -32,6 +32,9 @@ Here is a list of projects I have worked on as a Data Analyst using Excel, Power
 - WHO COVID-19 Report: Dataset from WHO based on COVID cases by countries
 - NCDC COVID-19 Analysis: NCDC dataset based on Nigeria COVID Cases
 
-## Excel
-- Appl Sales Analysis: used excel to analyse and create the dashboard
+## Excel Spreadsheet
+- Apple Sales Analysis: used excel to analyse and create the dashboard
 - Hospital ER Analysis: used excel to analyse and create the dashboard
+
+## Python
+- Diabetes Data: Data analyzed to predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset
