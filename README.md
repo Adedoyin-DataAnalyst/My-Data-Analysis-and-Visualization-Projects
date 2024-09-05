@@ -1,4 +1,4 @@
-# My-Data-Analysis-and-Visualization-Projects
+# Data Analysis and Visualization Portfolio Projects
 
 Here is a list of projects I have worked on as a Data Analyst using Excel, Power BI, Tableau, SQL. Majority of the datasets were provided by [Quantum Analytics](https://quantumanalyticsco.org/)
 
