@@ -29,7 +29,7 @@ Here is a list of projects I have worked on as a Data Analyst using Excel, Power
 5. [US Birth Report (2016 - 2021)](https://github.com/Adedoyin-DataAnalyst/US-Birth-Report-2016---2021-): This dashboard shows birth rates across the 50 states and DC from 2016 to 2021 based on the number of births, gender, birth weight, state, year of the delivery and the mother's educational level.
 6. [Health Insurance Coverage Report](https://github.com/Adedoyin-DataAnalyst/Health-Insurance-Coverage): This dashboard displays the health insurance rate in 51 states in the United states
 7. [Supply Chain Optimization for an FMCG Company](https://github.com/Adedoyin-DataAnalyst/FMCG-Supply-Chain-Optimization-Report): Analyzed the demand pattern in different pockets of the country so management can drive the advertising campaign, particularly in those pockets.
-8. [World Energy Consumption](https://github.com/Adedoyin-DataAnalyst/World-Energy-Consumption-by-Different-Countries): Analyszed the consumption rate by different countries based on various factors
+8. [World Energy Consumption](https://github.com/Adedoyin-DataAnalyst/World-Energy-Consumption-by-Different-Countries): Analyzed the consumption rate of different countries based on various factors
 9. [WHO COVID-19 Report](https://github.com/Adedoyin-DataAnalyst/WHO-COVID-19-Analysis): Dataset from WHO based on COVID cases by countries
 
 
